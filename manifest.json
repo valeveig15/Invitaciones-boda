@@ -47,7 +47,7 @@
     "V11 anima el regalo alternando una caja cerrada y una abierta; ambas imágenes están incluidas como assets/gift_closed.png y assets/gift_open.png.",
     "V12 agrega una sección de Instagram de la pareja con animación suave; el usuario mostrado es un placeholder seguro hasta contar con el perfil real.",
     "V12 agrega una sección de información útil con horarios, ubicaciones y un bloque editable para dress code, traslados, alojamiento u otros datos.",
-    "V12 reemplaza el cierre comercial por el texto solicitado: agradecimiento, demo, contacto e Instagram de @artedecostudio.",
+    "V12 reemplaza el cierre comercial por el texto solicitado: agradecimiento, demo, contacto e Instagram de @artedeco.studio.",
     "V13 reemplaza la música del sitio por el archivo proporcionado por el usuario: Die With a Smile (JLAY EDITED)(1).mp3, manteniendo el nombre interno assets/track-02.mp3 para conservar la compatibilidad con el reproductor existente.",
     "V14 reemplaza el regalo raster por assets/gift_box_animated.svg, un archivo SVG autónomo con animación interna.",
     "V14 simplifica el Instagram de la pareja: se elimina el corazón superpuesto y se conserva solo el glifo de Instagram con un aura externa.",
